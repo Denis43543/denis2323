@@ -1,0 +1,10 @@
+C:\Users\robi2\source\repos\Laba3_Denis\Laba3_Denis\bin\Debug\Laba3_Denis.exe.config
+C:\Users\robi2\source\repos\Laba3_Denis\Laba3_Denis\bin\Debug\Laba3_Denis.exe
+C:\Users\robi2\source\repos\Laba3_Denis\Laba3_Denis\bin\Debug\Laba3_Denis.pdb
+C:\Users\robi2\source\repos\Laba3_Denis\Laba3_Denis\obj\Debug\Laba3_Denis.csproj.AssemblyReference.cache
+C:\Users\robi2\source\repos\Laba3_Denis\Laba3_Denis\obj\Debug\Laba3_Denis.Form1.resources
+C:\Users\robi2\source\repos\Laba3_Denis\Laba3_Denis\obj\Debug\Laba3_Denis.Properties.Resources.resources
+C:\Users\robi2\source\repos\Laba3_Denis\Laba3_Denis\obj\Debug\Laba3_Denis.csproj.GenerateResource.cache
+C:\Users\robi2\source\repos\Laba3_Denis\Laba3_Denis\obj\Debug\Laba3_Denis.csproj.CoreCompileInputs.cache
+C:\Users\robi2\source\repos\Laba3_Denis\Laba3_Denis\obj\Debug\Laba3_Denis.exe
+C:\Users\robi2\source\repos\Laba3_Denis\Laba3_Denis\obj\Debug\Laba3_Denis.pdb
